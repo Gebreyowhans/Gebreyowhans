@@ -66,5 +66,13 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gebreyowhans&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gebreyowhans&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gebreyowhans&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gebreyowhans&theme=github-dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gebreyowhans&theme=onedark)
+
+
+
 💡 *Always learning, building, and solving problems with data & code!*
 
