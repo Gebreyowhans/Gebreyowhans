@@ -5,8 +5,8 @@
 * I'm passionate about building intelligent systems, analyzing data, and developing scalable software solutions. My expertise lies in Data Science, Machine Learning, Full-Stack Development, and Cloud Technologies.
 
   ### 📈 Current Focus
-- Enhancing my skills in **Azure Data Science & Cloud AI Solutions**
-- Working on **Data Science projects in healthcare and finance**
+- Enhancing my skills in **Azure Data Science & Cloud AI Solutions,LLM,Generative AI**
+- Working on **research projects relying on the application of AI and deep learning in healthcare.**
 
 ### 🌐 Socials:
   [LinkedIn](https://www.linkedin.com/in/gebreyowhansbahre),[GitLab](https://gitlab.com/Gebreyowhans)
